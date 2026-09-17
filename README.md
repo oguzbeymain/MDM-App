@@ -38,11 +38,9 @@ MDM is built for people who download a lot and do not want the browser to own th
 - **No runtime hunt** — the setup is self-contained. You do not install .NET first.
 
 ### Install
-1. Grab **[MDM-Setup](https://github.com/oguzbeymain/MDM-App/releases/latest)** (`MDM-Setup-1.0.46.exe`).
-2. Run it. MDM lands in your user Programs folder — no admin circus.
+1. Open **[the latest release](https://github.com/oguzbeymain/MDM-App/releases/latest)** and download `MDM-1.0.46-win-x64.zip`.
+2. Extract the folder and run **MDM.exe**. No extra .NET install.
 3. Open **Settings → Browser extension** and add it to the browser you actually use.
-
-Portable zip is on the same release if you prefer not to use Setup.
 
 ### In the box
 | | |
@@ -73,11 +71,9 @@ MDM, tarayıcının indirme klasörüne mahkûm olmak istemeyenler için. Chrome
 - **.NET aratmaz** — setup kendi runtime’ını taşır.
 
 ### Kurulum
-1. **[MDM-Setup](https://github.com/oguzbeymain/MDM-App/releases/latest)** dosyasını indir (`MDM-Setup-1.0.46.exe`).
-2. Çalıştır. Uygulama kullanıcı Programlar klasörüne kurulur.
+1. **[Son sürümü](https://github.com/oguzbeymain/MDM-App/releases/latest)** aç, `MDM-1.0.46-win-x64.zip` dosyasını indir.
+2. Klasörü aç ve **MDM.exe** çalıştır. Ayrı .NET kurman gerekmez.
 3. **Ayarlar → Tarayıcı eklentisi** üzerinden kullandığın tarayıcıya eklentiyi ekle.
-
-Setup istemezsen aynı sürümdeki zip paketini de kullanabilirsin.
 
 ### Neler var
 | | |
