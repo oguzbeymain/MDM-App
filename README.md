@@ -18,6 +18,7 @@
 <p align="center">
   <img src="media/mdm-hero.png" width="920" alt="MDM — Muck Download Manager">
 </p>
+<p align="center"><a href="https://github.com/oguzbeymain"><strong>oguzbeymain</strong></a></p>
 
 <p align="center">
   <img src="media/mdm-main.png" width="920" alt="MDM main window">
